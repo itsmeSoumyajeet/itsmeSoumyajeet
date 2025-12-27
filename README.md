@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Soumyajeet 👋
 ### Product Engineer with a Data Background (Analyst → Builder)
 
 I am a Full Stack Engineer transitioning from a 3-year career in Market Research & Data Analysis (Toluna/Nepa). I don't just write code; I build systems that solve data problems.
